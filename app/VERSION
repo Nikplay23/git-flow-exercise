@@ -1,3 +1,8 @@
 major=1
+<<<<<< remove-john-lemon
 minor=1
 patch=0
+=======
+minor=0
+patch=1
+>>>>>> master
